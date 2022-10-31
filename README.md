@@ -1,4 +1,4 @@
-### Alumni-Information-System
+# Alumni-Information-System
 
 ## About The Project
 * It is a project of Online Examination Management System.
@@ -29,3 +29,8 @@ Anyone can access the search engine to know about any alumni of the department a
 *  Responsible for the accounts of all students.
 *  Admin can Insert user to the database.
 *  Admin can delete user from the system.
+
+### Screenshots
+
+##### Login Page
+![Login Page](Images/loginPage.PNG)
