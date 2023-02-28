@@ -31,8 +31,7 @@ Anyone can access the search engine to know about any alumni of the department a
 *  Admin can delete user from the system.
 
 ### Screenshots
-#### Home Page
-![Home Page](Images/HomePage.PNG)
+
 
 #### Register Page
 ![Register Page](Images/RegisterPage.PNG)
